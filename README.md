@@ -1,14 +1,11 @@
 # lesson_mermaid
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>For teachers</summary>
 <br>
-This is how you dropdown.
-</details>
 
-<details>
-<summary>Learning objectives</summary>
-<br>
+Learning objectives:
+
 - Learners understand what Mermaid is
 - Learners have practiced with the Mermaid editor
 - Learners have uploaded a Mermaid diagram to a GitHub README.md file
