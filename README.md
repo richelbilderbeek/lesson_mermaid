@@ -40,8 +40,12 @@ Lesson plan:
   - How to create diagrams in text quickly that you can upload?
 </details>
 
-
 ## Introduction
+
+<details>
+<summary>My associations with the word 'graph'</summary>
+<br>
+
 
 ```mermaid
 mindmap
@@ -64,6 +68,8 @@ mindmap
         **Mermaid**
       WYSIWYG
 ```
+
+</details>
 
 ## Links
 
