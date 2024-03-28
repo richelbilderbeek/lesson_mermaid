@@ -1,6 +1,6 @@
 # lesson_mermaid
 
-> [!NOTE] Learning objectives
+> [!NOTE] "Learning objectives"
 >
 > Learning objectives:
 >
@@ -76,3 +76,4 @@ mindmap
 ## Links
 
 - [Mermaid homepage](https://mermaid.js.org/)
+- [NOTE testing](https://github.com/sinsukehlab/NOTE-test/blob/main/NOTE.md)
