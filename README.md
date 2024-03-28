@@ -1,6 +1,7 @@
 # lesson_mermaid
 
-> [!NOTE]
+> [!NOTE] Learning objectives
+>
 > Learning objectives:
 >
 > - Learners understand what Mermaid is
