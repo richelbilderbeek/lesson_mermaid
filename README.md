@@ -1,5 +1,11 @@
 # lesson_mermaid
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 !!!- info "Learning objectives"
 
     - Learners understand what Mermaid is
