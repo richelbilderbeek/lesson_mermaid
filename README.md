@@ -1,15 +1,16 @@
 # lesson_mermaid
 
+> [!NOTE]
+> Learning objectives:
+>
+> - Learners understand what Mermaid is
+> - Learners have practiced with the Mermaid editor
+> - Learners have uploaded a Mermaid diagram to a GitHub README.md file
+> - Learners have improved the layout of a flowchart using subgraphs
+
 <details>
 <summary>For teachers</summary>
 <br>
-
-Learning objectives:
-
-- Learners understand what Mermaid is
-- Learners have practiced with the Mermaid editor
-- Learners have uploaded a Mermaid diagram to a GitHub README.md file
-- Learners have improved the layout of a flowchart using subgraphs
 
 ```mermaid
 gantt
