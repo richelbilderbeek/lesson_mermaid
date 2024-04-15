@@ -340,7 +340,7 @@ i.e. one can always go back in history to recover
 Here we publish a Mermaid graph on GitHub.
 In this exercise, the graph is unimportant: pick your favorite :-)
 
-- Create a GitHub account
+- Create a GitHub account at [https://github.com](https://github.com)
 - Create a new GitHub repository and add a check to 'Create README.md'
 - Your own GitHub repository now shows its `README.md` file
 - Edit the file `README.md`
