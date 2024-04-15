@@ -151,12 +151,12 @@ mindmap
 
 What do you associate with the word 'graphs'?
 
-Go to [mermaid.live](mermaid.live) and create a mindmap
+Go to [https://mermaid.live](https://mermaid.live) and create a mindmap
 with the word 'Graphs' in the center.
 Avoid using the word `mindmap`.
 
 - What are features of a Mermaid mindmap?
-- (optional) What happens if you use the word `mindmap`?
+- (optional) What happens if you do use the word `mindmap` in your mindmap?
 
 ### Exercise 2
 
