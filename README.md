@@ -103,12 +103,15 @@ Questions:
 <details>
 <summary>Need a video?</summary>
 <br>
+
 Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](https://youtu.be/tObmaZp3fIg)
+
 </details>
 
 <details>
 <summary>Possible answers</summary>
 <br>
+
 > What are features of a Mermaid mindmap?
 
 A mermaid mindmap starts with a first line that has text `mindmap`,
@@ -126,7 +129,7 @@ This is a feature of a markup language:
 the idea is to have a good-enough mindmap,
 not to be able to create publication-ready ones.
 
-> (optional) What happens if you do use the word `mindmap` in your mindmap?
+> - (optional) What happens if you do use the word `mindmap` in your mindmap?
 
 You will get an error, as `mindmap` is a word that Mermaid reserves for
 indicating that a graph will be of the mindmap type.
@@ -135,11 +138,13 @@ indicating that a graph will be of the mindmap type.
 
 You will get an error for `[` and `(`, as Mermaid uses these operators
 for special markup.
+
 </details>
 
 <details>
 <summary>My associations with the word 'graphs' as a mindmap</summary>
 <br>
+
 ```mermaid
 mindmap
   root((Graphs))
@@ -161,6 +166,7 @@ mindmap
         **Mermaid**
       WYSIWYG
 ```
+
 </details>
 
 ## Theory 2: terminology
