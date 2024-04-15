@@ -226,45 +226,58 @@ What are features of a Mermaid flowchart?
 
 ```mermaid
 flowchart TD
-    graphs[Graphs]
-    images[Images that convey information]
-    self_contained[Self-contained]
-    need_data[Need data]
-    types[Types]
-    scatter_plot[Scatter plot]
-    mindmap[Mindmap]
-    a_flowchart[Flowchart]
-    tools[Tools]
-    mermaid_live[mermaid.live]
-    python[Python]
-    r[R]
+  graphs[Graphs]
+  images[Images that convey information]
+  self_contained[Self-contained]
+  need_data[Need data]
+  types[Types]
+  scatter_plot[Scatter plot]
+  mindmap[Mindmap]
+  a_flowchart[Flowchart]
+  tools[Tools]
+  mermaid_live[mermaid.live]
+  python[Python]
+  r[R]
 
-    graphs --> |are| images
-    images --> |may be| self_contained
-    images --> |may be| need_data
+  graphs --> |are| images
+  images --> |may be| self_contained
+  images --> |may be| need_data
 
-    graphs --> |have| types
-    types --> |for example| mindmap
-    types --> |for example| a_flowchart    
-    types --> |for example| scatter_plot
-    mindmap --> |usually| self_contained
-    a_flowchart --> |usually| self_contained
-    scatter_plot --> need_data
+  graphs --> |have| types
+  types --> |for example| mindmap
+  types --> |for example| a_flowchart    
+  types --> |for example| scatter_plot
+  mindmap --> |usually| self_contained
+  a_flowchart --> |usually| self_contained
+  scatter_plot --> need_data
 
-    graphs --> |drawn by| tools
-    tools --> |for example| mermaid_live
-    tools --> |for example| python
-    tools --> |for example| r
+  graphs --> |drawn by| tools
+  tools --> |for example| mermaid_live
+  tools --> |for example| python
+  tools --> |for example| r
 
-    mermaid_live <--> |works on|self_contained
-    python --> need_data
-    r --> need_data
+  mermaid_live <--> |works on|self_contained
+  python --> need_data
+  r --> need_data
 ```
 
 </details>
 
 
 ## Theory 3: publishing graphs
+
+Mermaid is a markup language to create graphs.
+
+One probably wants to share these graphs.
+
+GitHub is a website primarily to host code.
+It is the current most popular code hosting website
+and host more than only code.
+Per project, a typical user creates one website, 
+called a GitHub repository.
+All GitHub repositories are version controlled,
+i.e. one can always go back in history to recover
+(older versions of) files.
 
 ## Exercise 3: publish a graph
 
@@ -277,6 +290,22 @@ flowchart TD
 - Learners have uploaded a Mermaid diagram to a GitHub README.md file
 
 </details>
+
+Here we publish a Mermaid graph on GitHub.
+In this exercise, the graph is unimportant: pick your favorite :-)
+
+- Create a GitHub account
+- Create a new GitHub repository and add a check to 'Create README.md'
+- Your own GitHub repository now shows its `README.md` file
+- Edit the file `README.md`
+- In the editor, put your Mermaid markdown in a Mermaid code block, 
+  like this website does:
+
+    ```mermaid
+    [your mermaid code here]
+    ```
+- Click on 'Commit'
+- Refresh the website: it shows your Mermaid graph!
 
 ## Theory 4: improving layout
 
