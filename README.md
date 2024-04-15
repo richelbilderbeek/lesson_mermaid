@@ -242,9 +242,7 @@ One cannot determine where the nodes will end up.
 
 </details>
 
-<details>
-<summary>My associations with the word 'graph' as a flowchart</summary>
-<br>
+## My associations with the word 'graph' as a flowchart
 
 ```mermaid
 flowchart TD
@@ -282,9 +280,6 @@ flowchart TD
   python --> need_data
   r --> need_data
 ```
-
-</details>
-
 
 ## Theory 3: publishing graphs
 
