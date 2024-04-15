@@ -318,9 +318,12 @@ In this exercise, the graph is unimportant: pick your favorite :-)
 - In the editor, put your Mermaid markdown in a Mermaid code block, 
   like this website does:
 
-    ```mermaid
-    [your mermaid code here]
-    ```
+````
+```mermaid
+[your mermaid code here]
+```
+````
+
 - Click on 'Commit'
 - Refresh the website: it shows your Mermaid graph!
 
