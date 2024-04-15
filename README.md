@@ -356,6 +356,14 @@ In this exercise, the graph is unimportant: pick your favorite :-)
 - Click on 'Commit'
 - Refresh the website: it shows your Mermaid graph!
 
+<details>
+<summary>Need a video?</summary>
+<br>
+
+Here is a video of someone doing this exercise: [https://youtu.be/OcZvo8Y5hzE](https://youtu.be/OcZvo8Y5hzE)
+
+</details>
+
 ## Theory 4: improving layout
 
 ### Exercise 4: improve layout
