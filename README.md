@@ -64,10 +64,82 @@ Lesson plan:
 
 </details>
 
-## Introduction
+## Theory 1: introduction
 
-### My associations with the word 'graph' as a mindmap
+Mermaid is a markup language to create graphs.
 
+Instead of talking about it, let's experience Marmaid first.
+
+## Exercise 1: first experience with Mermaid
+
+<details>
+<summary>Learning objectives</summary>
+<br>
+- Learners get a first impression of what Mermaid is
+- Learners have practiced with the Mermaid editor
+- Learners may have seen a technical error
+</details>
+
+
+```mermaid
+mindmap
+  root((Graphs))
+```
+
+What do you associate with the word 'graphs'?
+
+- Go to [https://mermaid.live](https://mermaid.live) 
+- Click on 'Sample Diagrams' then click 'Mindmap'
+- Modify the mindmap so that the word 'Graphs' is at the center
+- Modify the mindmap so that it shows your associations with the word 'graphs' visually
+- (optional) visit [the mermaid documentation on mindmaps](https://mermaid.js.org/syntax/mindmap.html)
+
+Questions:
+
+- What are features of a Mermaid mindmap?
+- (optional) What happens if you do use the word `mindmap` in your mindmap?
+- (optional) Are there characters forbidden, such as `.`, `!`, `[` or `(`?
+
+<details>
+<summary>Need a video?</summary>
+<br>
+Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](https://youtu.be/tObmaZp3fIg)
+</details>
+
+<details>
+<summary>Possible answers</summary>
+<br>
+> What are features of a Mermaid mindmap?
+
+A mermaid mindmap starts with a first line that has text `mindmap`,
+after which all other elements are indented.
+
+The first element is the center node, called `root`. Between
+round braces is the text on the center node. Changing this line to
+`root((Graphs))` puts the word 'Graphs' in the center.
+
+Other elements are indented at least twice and follow a tree-like structure.
+This tree-like structure is the same as the mindmap.
+
+One cannot determine where the nodes will end up.
+This is a feature of a markup language: 
+the idea is to have a good-enough mindmap,
+not to be able to create publication-ready ones.
+
+> (optional) What happens if you do use the word `mindmap` in your mindmap?
+
+You will get an error, as `mindmap` is a word that Mermaid reserves for
+indicating that a graph will be of the mindmap type.
+
+> - (optional) Are there characters forbidden, such as `.`, `!`, `[` or `(`?
+
+You will get an error for `[` and `(`, as Mermaid uses these operators
+for special markup.
+</details>
+
+<details>
+<summary>My associations with the word 'graphs' as a mindmap</summary>
+<br>
 ```mermaid
 mindmap
   root((Graphs))
@@ -89,11 +161,40 @@ mindmap
         **Mermaid**
       WYSIWYG
 ```
-
 </details>
 
-### My associations with the word 'graph' as a flowchart
+## Theory 2: terminology
 
+Mermaid is a markup language to create graphs.
+
+A 'markup language' is a language that describes the markup of something.
+In case of a mindmap, the Mermaid markup language uses indentation
+to indicate the structure of the mindmap.
+
+The [https://mermaid.live](https://mermaid.live) website is an online editor 
+with direct visualization.
+
+## Exercise 2: first experience with Mermaid
+
+> [!NOTE]
+>
+> Learning objectives:
+>
+> - Learners understand what Mermaid is
+> - Learners have practiced with the Mermaid editor
+
+What do you associate with the word 'graph'?
+
+Go to <mermaid.live> and create a flowchart. 
+- If needed, visit [the Mermaid documentation on flowcharts](https://mermaid.js.org/syntax/flowchart.html)
+Avoid using the word `flowchart`.
+On the edges, describe the relationships between the concepts.
+
+What are features of a Mermaid flowchart?
+
+<details>
+<summary>My associations with the word 'graph' as a flowchart</summary>
+<br>
 ```mermaid
 flowchart TD
     graphs[Graphs]
@@ -130,61 +231,9 @@ flowchart TD
     python --> need_data
     r --> need_data
 ```
-
-## Exercises
-
-### Exercise 1
-
-<details>
-<summary>Learning objectives</summary>
-<br>
-- Learners get a first impression of what Mermaid is
-- Learners have practiced with the Mermaid editor
-- Learners may have seen a technical error
 </details>
 
-
-```mermaid
-mindmap
-  root((Graphs))
-```
-
-What do you associate with the word 'graphs'?
-
-- Go to [https://mermaid.live](https://mermaid.live) 
-- Click on 'Sample Diagrams' then click 'Mindmap'
-- Modify the mindmap so that the word 'Graphs' is at the center
-- Modify the mindmap so that it shows your associations with the word 'graphs' visually
-
-Questions:
-
-- What are features of a Mermaid mindmap?
-- What happens if you do use the word `mindmap` in your mindmap?
-- Are there characters forbidden, such as `.`, `!`, `[` or `(`?
-
-<details>
-<summary>Need a video?</summary>
-<br>
-Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](https://youtu.be/tObmaZp3fIg)
-</details>
-
-### Exercise 2
-
-> [!NOTE]
->
-> Learning objectives:
->
-> - Learners understand what Mermaid is
-> - Learners have practiced with the Mermaid editor
-
-What do you associate with the word 'graph'?
-
-Go to <mermaid.live> and create a flowchart. Avoid using the word `flowchart`.
-On the edges, describe the relationships between the concepts.
-
-What are features of a Mermaid flowchart?
-
-### Exercise 2
+### Exercise 3
 
 > [!NOTE]
 >
@@ -194,7 +243,7 @@ What are features of a Mermaid flowchart?
 > - Learners have practiced with the Mermaid editor
 > - Learners have uploaded a Mermaid diagram to a GitHub README.md file
 
-### [Extra] Exercise 3
+### [Extra] Exercise 4
 
 > [!NOTE]
 >
