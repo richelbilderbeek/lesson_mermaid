@@ -1,4 +1,4 @@
-# lesson_mermaid
+# Lesson on mermaid
 
 > [!NOTE]
 >
