@@ -144,9 +144,7 @@ for special markup.
 
 </details>
 
-<details>
-<summary>My associations with the word 'graphs' as a mindmap</summary>
-<br>
+## My associations with the word 'graphs' as a mindmap
 
 ```mermaid
 mindmap
@@ -170,8 +168,6 @@ mindmap
       WYSIWYG
 ```
 
-</details>
-
 ## Theory 2: terminology
 
 Mermaid is a markup language to create graphs.
@@ -193,6 +189,15 @@ nodes/vertices/concepts.
 For complex information, however, one would enjoy to express this
 by adding edges/relations.
 A mermaid flowchart allows one to create graphs of a complex structure.
+
+```mermaid
+flowchart TD
+  concept_1[This is a vertex/node/concept]
+  concept_2[Another one]  
+  concept_3[Another one]  
+  concept_1 <--> |this is an edge/relation| concept_2
+  concept_1 --> concept_3 --> concept_2
+```
 
 ## Exercise 2: a flowchart
 
