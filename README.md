@@ -15,24 +15,22 @@
 <br>
 
 ```mermaid
+
 gantt
   title Lesson plan
   dateFormat X
   axisFormat %s
-  section Lecturing
-  This lesson : 0, 5
-  What is Mermaid? : 5, 10
-  Exercise procedure: 10, 15
-  Feedback : 25, 30
-  How to use on GitHub : 30, 40
-  Exercise procedure: 40, 45
-  Feedback : 60, 70
-  Subdiagrams : 70, 75
-  Feedback : 85, 90
-  section Exercise
-  Try mermaid.live: 15, 25
-  Upload a mermaid diagram: 45,60
-  Create a subdiagram: 75,85
+  Introduction : 0, 5s
+  Theory 1: 5, 5s
+  Exercise 1: crit, 10, 5s
+  Feedback 1: 15, 5s
+  Theory 2: 20, 10s
+  Exercise 2: crit, 30, 10s
+  Feedback 2: 40, 5s
+  Theory 3: 45,55
+  Exercise 3: crit, 55,15s
+  Feedback 3: 70,5s
+  Extra/Break: 75,90
 ```
 
 Lesson plan:
