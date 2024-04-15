@@ -151,12 +151,16 @@ mindmap
 
 What do you associate with the word 'graphs'?
 
-Go to [https://mermaid.live](https://mermaid.live) and create a mindmap
-with the word 'Graphs' in the center.
-Avoid using the word `mindmap`.
+- Go to [https://mermaid.live](https://mermaid.live) 
+- Click on 'Sample Diagrams' then click 'Mindmap'
+- Modify the mindmap so that the word 'Graphs' is at the center
+- Modify the mindmap so that it shows your associations with the word 'graphs' visually
+
+Questions:
 
 - What are features of a Mermaid mindmap?
-- (optional) What happens if you do use the word `mindmap` in your mindmap?
+- What happens if you do use the word `mindmap` in your mindmap?
+- Are there characters forbidden, such as `.`, `!`, `[` or `(`?
 
 ### Exercise 2
 
