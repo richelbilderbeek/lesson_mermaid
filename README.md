@@ -247,6 +247,16 @@ Questions:
 - What can you not express in a Mermaid flowchart?
 
 <details>
+<summary>Need a video?</summary>
+<br>
+
+Here is a video of someone doing this exercise: [https://youtu.be/I9UI7DUM81k](https://youtu.be/I9UI7DUM81k)
+
+</details>
+
+
+
+<details>
 <summary>Possible answers</summary>
 <br>
 
