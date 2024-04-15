@@ -64,7 +64,26 @@ Lesson plan:
 
 </details>
 
-## Overview
+## Why
+
+You want to express the rules for the game 
+[Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)
+in a graph.
+
+In 1 minute you create this graph:
+
+```mermaid
+flowchart TD
+  Paper --> |beats| Rock 
+   --> |beats| Scissors
+   --> |beats| Paper
+```
+
+Mermaid allows you to create such graphs.
+Sometimes, these are good enough, sometimes they are used as a 
+first draft for a more pretty graph.
+
+## Lesson overview
 
 - [Theory 1: introduction](#theory-1-introduction)
 - [Exercise 1: first experience](#exercise-1-first-experience) 
@@ -79,7 +98,7 @@ Lesson plan:
 
 Mermaid is a markup language to create graphs.
 
-Instead of talking about it, let's experience Marmaid first.
+Instead of talking about it, let's experience Mermaid first.
 
 ## Exercise 1: first experience
 
