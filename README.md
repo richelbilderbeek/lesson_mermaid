@@ -64,9 +64,16 @@ Lesson plan:
 
 </details>
 
-## Contents
+## Overview
 
 - [Theory 1: introduction](#theory-1-introduction)
+- [Exercise 1: first experience](#exercise-1-first-experience) 
+- [Theory 2: terminology](#theory-2-terminology) 
+- [Exercise 2: a Mermaid flowchart](#exercise-2-a-flowchart) 
+- [Theory 3: publishing graphs](#theory-3-publishing-graphs)
+- [Exercise 3: publish a graph](#exercise-3-publish-a-graph)
+- (optional) [Theory 4: improving layout](#theory-4-improving-layout)
+- (optional) [Exercise 4: improve layout](#exercise-4-improve-layout)
 
 ## Theory 1: introduction
 
@@ -74,7 +81,7 @@ Mermaid is a markup language to create graphs.
 
 Instead of talking about it, let's experience Marmaid first.
 
-## Exercise 1: first experience with Mermaid
+## Exercise 1: first experience
 
 <details>
 <summary>Learning objectives</summary>
@@ -187,7 +194,7 @@ For complex information, however, one would enjoy to express this
 by adding edges/relations.
 A mermaid flowchart allows one to create graphs of a complex structure.
 
-## Exercise 2: first experience with Mermaid
+## Exercise 2: a flowchart
 
 <details>
 <summary>Learning objectives</summary>
@@ -251,7 +258,10 @@ flowchart TD
 
 </details>
 
-### Exercise 3
+
+## Theory 3: publishing graphs
+
+## Exercise 3: publish a graph
 
 <details>
 <summary>Learning objectives</summary>
@@ -263,7 +273,9 @@ flowchart TD
 
 </details>
 
-### [Extra] Exercise 4
+## Theory 4: improving layout
+
+### Exercise 4: improve layout
 
 <details>
 <summary>Learning objectives</summary>
