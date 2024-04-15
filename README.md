@@ -79,9 +79,11 @@ Instead of talking about it, let's experience Marmaid first.
 <details>
 <summary>Learning objectives</summary>
 <br>
+
 - Learners get a first impression of what Mermaid is
 - Learners have practiced with the Mermaid editor
 - Learners may have seen a technical error
+
 </details>
 
 
@@ -118,20 +120,10 @@ Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](h
 
 > What are features of a Mermaid mindmap?
 
-A mermaid mindmap starts with a first line that has text `mindmap`,
-after which all other elements are indented.
-
-The first element is the center node, called `root`. Between
-round braces is the text on the center node. Changing this line to
-`root((Graphs))` puts the word 'Graphs' in the center.
-
-Other elements are indented at least twice and follow a tree-like structure.
-This tree-like structure is the same as the mindmap.
-
+A Mermaid mindmap allows one to create a tree-like structure
+of vertices/nodes/concepts in an outwards way; 
+one cannot add links between concepts.
 One cannot determine where the nodes will end up.
-This is a feature of a markup language: 
-the idea is to have a good-enough mindmap,
-not to be able to create publication-ready ones.
 
 > - (optional) What happens if you do use the word `mindmap` in your mindmap?
 
@@ -177,34 +169,49 @@ mindmap
 
 Mermaid is a markup language to create graphs.
 
-A 'markup language' is a language that describes the markup of something.
+A markup language is a language that describes the markup of something.
 In case of a mindmap, the Mermaid markup language uses indentation
 to indicate the structure of the mindmap.
 
 The [https://mermaid.live](https://mermaid.live) website is an online editor 
 with direct visualization.
 
+Mermaid will do the layout for you.
+Options to decide upon the layout are absent or limited. 
+This is a strength: you **should** let Mermaid do the layout for you,
+as the goal is to create graphs quickly, not to create graphs for publication.
+
+A mindmap is a graph that does not have relations between its 
+nodes/vertices/concepts. 
+For complex information, however, one would enjoy to express this
+by adding edges/relations.
+A mermaid flowchart allows one to create graphs of a complex structure.
+
 ## Exercise 2: first experience with Mermaid
 
-> [!NOTE]
->
-> Learning objectives:
->
-> - Learners understand what Mermaid is
-> - Learners have practiced with the Mermaid editor
+<details>
+<summary>Learning objectives</summary>
+<br>
+
+- Learners understand what Mermaid is
+- Learners have practiced with the Mermaid editor
+
+</details>
 
 What do you associate with the word 'graph'?
 
-Go to <mermaid.live> and create a flowchart. 
+- Go to [https://mermaid.live](https://mermaid.live) 
+- Click on 'Sample Diagrams' then click 'Flow'
+- Modify the flowchart so that the word 'Graphs' is at the center
 - If needed, visit [the Mermaid documentation on flowcharts](https://mermaid.js.org/syntax/flowchart.html)
-Avoid using the word `flowchart`.
-On the edges, describe the relationships between the concepts.
+- (optional) On the edges, describe the relationships between the concepts.
 
 What are features of a Mermaid flowchart?
 
 <details>
 <summary>My associations with the word 'graph' as a flowchart</summary>
 <br>
+
 ```mermaid
 flowchart TD
     graphs[Graphs]
@@ -241,28 +248,33 @@ flowchart TD
     python --> need_data
     r --> need_data
 ```
+
 </details>
 
 ### Exercise 3
 
-> [!NOTE]
->
-> Learning objectives:
->
-> - Learners understand what Mermaid is
-> - Learners have practiced with the Mermaid editor
-> - Learners have uploaded a Mermaid diagram to a GitHub README.md file
+<details>
+<summary>Learning objectives</summary>
+<br>
+
+- Learners understand what Mermaid is
+- Learners have practiced with the Mermaid editor
+- Learners have uploaded a Mermaid diagram to a GitHub README.md file
+
+</details>
 
 ### [Extra] Exercise 4
 
-> [!NOTE]
->
-> Learning objectives:
->
-> - Learners understand what Mermaid is
-> - Learners have practiced with the Mermaid editor
-> - Learners have uploaded a Mermaid diagram to a GitHub README.md file
-> - Learners have improved the layout of a flowchart using subgraphs
+<details>
+<summary>Learning objectives</summary>
+<br>
+
+- Learners understand what Mermaid is
+- Learners have practiced with the Mermaid editor
+- Learners have uploaded a Mermaid diagram to a GitHub README.md file
+- Learners have improved the layout of a flowchart using subgraphs
+
+</details>
 
 ## Links
 
