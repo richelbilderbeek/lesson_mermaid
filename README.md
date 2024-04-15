@@ -64,6 +64,10 @@ Lesson plan:
 
 </details>
 
+## Contents
+
+- [Theory 1: introduction](#theory-1-introduction)
+
 ## Theory 1: introduction
 
 Mermaid is a markup language to create graphs.
