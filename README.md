@@ -141,13 +141,21 @@ flowchart TD
 >
 > - Learners get a first impression of what Mermaid is
 > - Learners have practiced with the Mermaid editor
+> - Learners may have seen a technical error
 
-What do you associate with the word 'graph'?
+```mermaid
+mindmap
+  root((Graphs))
+```
 
-Go to <mermaid.live> and create a mindmap. Avoid using the word `mindmap`.
+What do you associate with the word 'graphs'?
 
+Go to [mermaid.live](mermaid.live) and create a mindmap
+with the word 'Graphs' in the center.
+Avoid using the word `mindmap`.
 
-What are features of a Mermaid mindmap?
+- What are features of a Mermaid mindmap?
+- (optional) What happens if you use the word `mindmap`?
 
 ### Exercise 2
 
