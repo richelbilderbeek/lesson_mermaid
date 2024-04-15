@@ -135,13 +135,14 @@ flowchart TD
 
 ### Exercise 1
 
-> [!NOTE]
->
-> Learning objectives:
->
-> - Learners get a first impression of what Mermaid is
-> - Learners have practiced with the Mermaid editor
-> - Learners may have seen a technical error
+<details>
+<summary>Learning objectives</summary>
+<br>
+- Learners get a first impression of what Mermaid is
+- Learners have practiced with the Mermaid editor
+- Learners may have seen a technical error
+</details>
+
 
 ```mermaid
 mindmap
