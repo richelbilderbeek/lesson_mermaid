@@ -162,6 +162,12 @@ Questions:
 - What happens if you do use the word `mindmap` in your mindmap?
 - Are there characters forbidden, such as `.`, `!`, `[` or `(`?
 
+<details>
+<summary>Need a video?</summary>
+<br>
+Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](https://youtu.be/tObmaZp3fIg)
+</details>
+
 ### Exercise 2
 
 > [!NOTE]
