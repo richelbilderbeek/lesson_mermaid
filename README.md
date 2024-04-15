@@ -364,6 +364,49 @@ Here is a video of someone doing this exercise: [https://youtu.be/OcZvo8Y5hzE](h
 
 ## Theory 4: improving layout
 
+Mermaid is a markup language to create graphs.
+
+From the markup text, 
+it uses algorithms to make a graph look pretty.
+However, sometimes this does not work.
+
+One solution in flowcharts is to use subgraphs:
+
+````
+```
+flowchart TD
+  graphs[Graphs]
+  images[Images that convey information]
+  subgraph types[Types]
+    subgraph self_contained[Self-contained]
+    mindmap[Mindmap]
+    a_flowchart[Flowchart]
+    end
+    subgraph need_data[Need data]
+      scatter_plot[Scatter plot]
+    end
+  end
+  subgraph tools[Tools]
+    mermaid_live[mermaid.live]
+    python[Python]
+    r[R]
+  end
+
+  graphs --> |are| images
+  images --> |depend on| types
+  graphs --> |have| types
+  mindmap --> |usually| self_contained
+  a_flowchart --> |usually| self_contained
+  scatter_plot --> need_data
+
+  graphs --> |drawn by| tools
+
+  mermaid_live <--> |works on|self_contained
+  python --> |works on| need_data
+  r --> |works on| need_data
+```
+````
+
 ### Exercise 4: improve layout
 
 <details>
@@ -376,6 +419,9 @@ Here is a video of someone doing this exercise: [https://youtu.be/OcZvo8Y5hzE](h
 - Learners have improved the layout of a flowchart using subgraphs
 
 </details>
+
+Try to create a prettier graph using subgraphs. 
+Pick any flowchart you want.
 
 ## Links
 
