@@ -109,7 +109,8 @@ What do you associate with the word 'graphs'?
 
 Questions:
 
-- What are features of a Mermaid mindmap?
+- What can you express in a Mermaid mindmap?
+- What can you not express in a Mermaid mindmap?
 - (optional) What happens if you do use the word `mindmap` in your mindmap?
 - (optional) Are there characters forbidden, such as `.`, `!`, `[` or `(`?
 
@@ -125,19 +126,22 @@ Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](h
 <summary>Possible answers</summary>
 <br>
 
-> What are features of a Mermaid mindmap?
+> What can you express in a Mermaid mindmap?
 
 A Mermaid mindmap allows one to create a tree-like structure
-of vertices/nodes/concepts in an outwards way; 
-one cannot add links between concepts.
+of vertices/nodes/concepts in an outwards way. 
+
+> What can you not express in a Mermaid mindmap?
+
+One cannot add links between concepts.
 One cannot determine where the nodes will end up.
 
-> - (optional) What happens if you do use the word `mindmap` in your mindmap?
+> (optional) What happens if you do use the word `mindmap` in your mindmap?
 
 You will get an error, as `mindmap` is a word that Mermaid reserves for
 indicating that a graph will be of the mindmap type.
 
-> - (optional) Are there characters forbidden, such as `.`, `!`, `[` or `(`?
+> (optional) Are there characters forbidden, such as `.`, `!`, `[` or `(`?
 
 You will get an error for `[` and `(`, as Mermaid uses these operators
 for special markup.
@@ -218,7 +222,25 @@ What do you associate with the word 'graph'?
 - If needed, visit [the Mermaid documentation on flowcharts](https://mermaid.js.org/syntax/flowchart.html)
 - (optional) On the edges, describe the relationships between the concepts.
 
-What are features of a Mermaid flowchart?
+Questions:
+
+- What can you express in a Mermaid flowchart?
+- What can you not express in a Mermaid flowchart?
+
+<details>
+<summary>Possible answers</summary>
+<br>
+
+> What can you express in a Mermaid flowchart?
+
+A Mermaid flowchart allows one to create a complex structure
+of vertices/nodes/concepts in any way
+
+> What can you not express in a Mermaid flowchart?
+
+One cannot determine where the nodes will end up.
+
+</details>
 
 <details>
 <summary>My associations with the word 'graph' as a flowchart</summary>
