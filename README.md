@@ -381,9 +381,11 @@ Here is a video of someone doing this exercise: [https://youtu.be/OcZvo8Y5hzE](h
 
 Mermaid is a markup language to create graphs.
 
+### subgraphs
+
 From the markup text, 
-it uses algorithms to make a graph look pretty.
-However, sometimes this does not work.
+Mermaid uses algorithms to make a graph look pretty.
+However, sometimes this does not work out.
 
 One solution in flowcharts is to use subgraphs:
 
@@ -422,6 +424,38 @@ flowchart TD
 ```
 ````
 
+### coloring nodes
+
+Coloring the nodes can be helpful.
+Mermaid allows one to define a style (technically: a class definition)
+and apply it to nodes:
+
+````
+```mermaid
+flowchart TD
+
+  classDef bjorn_node fill:#ddf,color:#000,stroke:#00f
+  classDef lars_node fill:#dfd,color:#000,stroke:#0f0
+  classDef richel_node fill:#fdd,color:#000,stroke:#f00
+
+  subgraph day_1[Monday]
+    git_basic[git basic workflow]:::bjorn_node
+    class_design[Class design]:::lars_node
+  end
+  subgraph day_2[Tuesday]
+    class_diagram[Create project's class diagram]:::lars_node
+    pair_programming[Pair programming]:::richel_node
+    tdd[TDD]:::richel_node
+  end
+
+  git_basic --> pair_programming
+  pair_programming --> tdd
+  class_design --> class_diagram
+  class_diagram --> tdd
+  git_basic --> tdd
+```
+````
+
 ### Exercise 4: improve layout
 
 <details>
@@ -435,8 +469,9 @@ flowchart TD
 
 </details>
 
-Try to create a prettier graph using subgraphs. 
-Pick any flowchart you want.
+Try to create a prettier graph using subgraphs
+and colored nodes.
+Pick any topic you want.
 
 ## Links
 
