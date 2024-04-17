@@ -77,3 +77,7 @@ judged from more plenary dialog later on.
 
 All in all, I think it was a good session, as the learners had enough
 time to spend on exercises and most criticism on me may be details to others.
+
+Within the course, I can imagine it is more useful to teach this earlier,
+as it allows people to sketch a graph.
+
