@@ -481,5 +481,5 @@ Pick any topic you want.
 - [Mermaid homepage](https://mermaid.js.org/)
 - [NOTE testing](https://github.com/sinsukehlab/NOTE-test/blob/main/NOTE.md)
 - [Dropdown tests](https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61)
-- [Mermaid at UPPMAX documentation](http://docs.uppmax.uu.se/getting_started/login_bianca/#overview)
+- [Mermaid at UPPMAX documentation](https://docs.uppmax.uu.se/getting_started/login_bianca/#overview)
 - [Mermaid at NBIS course](https://uppmax.github.io/programming_formalisms/misc/exercise_procedure/)
