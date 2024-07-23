@@ -22,9 +22,8 @@ gantt
 
 > The original schedule
 
-There was, however, a bit much more talk after exercise 2, so I've changed 
+There was, however, a bit much more talk after exercise 2, so I've changed
 the schedule.
-
 
 ```mermaid
 gantt
@@ -80,4 +79,3 @@ time to spend on exercises and most criticism on me may be details to others.
 
 Within the course, I can imagine it is more useful to teach this earlier,
 as it allows people to sketch a graph.
-

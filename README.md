@@ -40,34 +40,34 @@ Lesson plan:
 
 - Who I am
 - Cycle 1:
-  - Prior knowledge:
-    - What do you associate the word 'diagram' with?
-    - What types of diagrams are there? Mention mindmap and flowchart
-    - How to create diagrams?
-    - How to publish diagrams?
-    - What is a mindmap?
-    - How to create a mindmap?
-  - Present: go to <mermaid.live>, show mindmap, show syntax
-  - Challenge: exercise 1
-  - Feedback: 
-    - ask 1 random learner to show mindmap, else show mine
-    - ask drawback of mindmaps. Cannot link between nodes
+    - Prior knowledge:
+        - What do you associate the word 'diagram' with?
+        - What types of diagrams are there? Mention mindmap and flowchart
+        - How to create diagrams?
+        - How to publish diagrams?
+        - What is a mindmap?
+        - How to create a mindmap?
+    - Present: go to <mermaid.live>, show mindmap, show syntax
+    - Challenge: exercise 1
+    - Feedback:
+        - ask 1 random learner to show mindmap, else show mine
+        - ask drawback of mindmaps. Cannot link between nodes
 - Cycle 2:
-  - Prior knowledge:
-    - What do you associate the word 'flowchart' with?
-    - How to create a flowchart?
-  - Present: 
-    - what is mermaid?
-    - why use mermaid?
-    - go to <mermaid.live>, show flowchart, show syntax
-  - Challenge: exercise 2
-  - Feedback: ask 1 random learner to show mindmap
+    - Prior knowledge:
+        - What do you associate the word 'flowchart' with?
+        - How to create a flowchart?
+    - Present:
+        - what is mermaid?
+        - why use mermaid?
+        - go to <mermaid.live>, show flowchart, show syntax
+    - Challenge: exercise 2
+    - Feedback: ask 1 random learner to show mindmap
 
 </details>
 
 ## Why
 
-You want to express the rules for the game 
+You want to express the rules for the game
 [Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 in a graph.
 
@@ -81,7 +81,7 @@ flowchart TD
 ```
 
 Mermaid allows you to create such graphs.
-Sometimes, these are good enough, sometimes they are used as a 
+Sometimes, these are good enough, sometimes they are used as a
 first draft for a more pretty graph.
 
 ## Bigger picture
@@ -102,9 +102,9 @@ flowchart TD
 ## Lesson overview
 
 - [Theory 1: introduction](#theory-1-introduction)
-- [Exercise 1: first experience](#exercise-1-first-experience) 
-- [Theory 2: terminology](#theory-2-terminology) 
-- [Exercise 2: a Mermaid flowchart](#exercise-2-a-flowchart) 
+- [Exercise 1: first experience](#exercise-1-first-experience)
+- [Theory 2: terminology](#theory-2-terminology)
+- [Exercise 2: a Mermaid flowchart](#exercise-2-a-flowchart)
 - [Theory 3: publishing graphs](#theory-3-publishing-graphs)
 - [Exercise 3: publish a graph](#exercise-3-publish-a-graph)
 - (optional) [Theory 4: improving layout](#theory-4-improving-layout)
@@ -128,7 +128,6 @@ Instead of talking about it, let's experience Mermaid first.
 
 </details>
 
-
 ```mermaid
 mindmap
   root((Graphs))
@@ -136,7 +135,7 @@ mindmap
 
 What do you associate with the word 'graphs'?
 
-- Go to [https://mermaid.live](https://mermaid.live) 
+- Go to [https://mermaid.live](https://mermaid.live)
 - Click on 'Sample Diagrams' then click 'Mindmap'
 - Modify the mindmap so that the word 'Graphs' is at the center
 - Modify the mindmap so that it shows your associations with the word 'graphs' visually
@@ -164,7 +163,7 @@ Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](h
 > What can you express in a Mermaid mindmap?
 
 A Mermaid mindmap allows one to create a tree-like structure
-of vertices/nodes/concepts in an outwards way. 
+of vertices/nodes/concepts in an outwards way.
 
 > What can you not express in a Mermaid mindmap?
 
@@ -215,16 +214,16 @@ A markup language is a language that describes the markup of something.
 In case of a mindmap, the Mermaid markup language uses indentation
 to indicate the structure of the mindmap.
 
-The [https://mermaid.live](https://mermaid.live) website is an online editor 
+The [https://mermaid.live](https://mermaid.live) website is an online editor
 with direct visualization.
 
 Mermaid will do the layout for you.
-Options to decide upon the layout are absent or limited. 
+Options to decide upon the layout are absent or limited.
 This is a strength: you **should** let Mermaid do the layout for you,
 as the goal is to create graphs quickly, not to create graphs for publication.
 
-A mindmap is a graph that does not have relations between its 
-nodes/vertices/concepts. 
+A mindmap is a graph that does not have relations between its
+nodes/vertices/concepts.
 For complex information, however, one would enjoy to express this
 by adding edges/relations.
 A mermaid flowchart allows one to create graphs of a complex structure.
@@ -251,7 +250,7 @@ flowchart TD
 
 What do you associate with the word 'graph'?
 
-- Go to [https://mermaid.live](https://mermaid.live) 
+- Go to [https://mermaid.live](https://mermaid.live)
 - Click on 'Sample Diagrams' then click 'Flow'
 - Modify the flowchart so that the word 'Graphs' is at the center
 - If needed, visit [the Mermaid documentation on flowcharts](https://mermaid.js.org/syntax/flowchart.html)
@@ -269,8 +268,6 @@ Questions:
 Here is a video of someone doing this exercise: [https://youtu.be/I9UI7DUM81k](https://youtu.be/I9UI7DUM81k)
 
 </details>
-
-
 
 <details>
 <summary>Possible answers</summary>
@@ -335,7 +332,7 @@ One probably wants to share these graphs.
 GitHub is a website primarily to host code.
 It is the current most popular code hosting website
 and host more than only code.
-Per project, a typical user creates one website, 
+Per project, a typical user creates one website,
 called a GitHub repository.
 All GitHub repositories are version controlled,
 i.e. one can always go back in history to recover
@@ -360,10 +357,10 @@ In this exercise, the graph is unimportant: pick your favorite :-)
 - Create a new GitHub repository and add a check to 'Create README.md'
 - Your own GitHub repository now shows its `README.md` file
 - Edit the file `README.md`
-- In the editor, put your Mermaid markdown in a Mermaid code block, 
+- In the editor, put your Mermaid markdown in a Mermaid code block,
   like this website does:
 
-````
+````text
 ```mermaid
 [your mermaid code here]
 ```
@@ -386,14 +383,14 @@ Mermaid is a markup language to create graphs.
 
 ### subgraphs
 
-From the markup text, 
+From the markup text,
 Mermaid uses algorithms to make a graph look pretty.
 However, sometimes this does not work out.
 
 One solution in flowcharts is to use subgraphs:
 
-````
-```
+````text
+```mermaid
 flowchart TD
   graphs[Graphs]
   images[Images that convey information]
@@ -433,7 +430,7 @@ Coloring the nodes can be helpful.
 Mermaid allows one to define a style (technically: a class definition)
 and apply it to nodes:
 
-````
+````text
 ```mermaid
 flowchart TD
 

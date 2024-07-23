@@ -2,7 +2,6 @@
 
 Here is the schedule:
 
-
 ```mermaid
 gantt
   title Lesson plan
