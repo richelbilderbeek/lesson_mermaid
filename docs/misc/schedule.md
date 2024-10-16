@@ -1,5 +1,12 @@
 # Schedule
 
+Time|Description
+----|-----------
+9:00|Work
+9:50|Break
+10:00|Continue
+10:30|End
+
 ```mermaid
 gantt
   title Lesson plan
@@ -20,3 +27,11 @@ gantt
   Extra/Break: after feedback_3, 10s
   Break 2: crit, 105, 15s
 ```
+
+## Overview of sessions
+
+- [Intro to mermaid](../sessions/intro_to_mermaid.md)
+- [Your first mermaid experience](../sessions/first_experience.md)
+- [Mermaid terminology](../sessions/mermaid_terminology.md)
+- [Publishing your graphs](../sessions/publishing_graphs.md)
+- [Improving the layout of your graphs](../sessions/improving_layout.md)

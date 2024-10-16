@@ -96,11 +96,3 @@ flowchart TD
 ```
 
 <!-- markdownlint-enable MD013 -->
-
-## Overview of sessions
-
-- [Intro to mermaid](intro_to_mermaid.md)
-- [Your first mermaid experience](first_experience.md)
-- [Mermaid terminology](mermaid_terminology.md)
-- [Publishing your graphs](publishing_graphs.md)
-- [Improving the layout of your graphs](improving_layout.md)
