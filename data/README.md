@@ -2,10 +2,11 @@
 
 Data on this course.
 
-## [course_dates.csv](course_dates.csv)
+## [n_learners_per_event.csv](n_learners_per_event.csv)
 
-Dates the course took place
+The number of learners per event.
 
-Field |Description
-------|--------------------------
-`date`|Date, in `YYYYMMDD` format
+Field       |Description
+------------|--------------------------
+`date`      |Date, in `YYYYMMDD` format
+`n_learners`|The number of learners. This excludes the teacher(s) and teaching assistant(s)
