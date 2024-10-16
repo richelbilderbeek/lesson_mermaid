@@ -93,15 +93,10 @@ flowchart TD
   need_render --> |no| GraphViz[GraphViz. Others]
 ```
 
+## Overview of sessions
 
-
-## Lesson overview
-
-- [Theory 1: introduction](#theory-1-introduction)
-- [Exercise 1: first experience](#exercise-1-first-experience)
-- [Theory 2: terminology](#theory-2-terminology)
-- [Exercise 2: a Mermaid flowchart](#exercise-2-a-flowchart)
-- [Theory 3: publishing graphs](#theory-3-publishing-graphs)
-- [Exercise 3: publish a graph](#exercise-3-publish-a-graph)
-- (optional) [Theory 4: improving layout](#theory-4-improving-layout)
-- (optional) [Exercise 4: improve layout](#exercise-4-improve-layout)
+- [Intro to mermaid](intro_to_mermaid.md)
+- [Your first mermaid experience](first_experience.md)
+- [Mermaid terminology](mermaid_terminology.md)
+- [Publishing your graphs](publishing_graphs.md)
+- [Improving the layout of your graphs](improving_layout.md)
