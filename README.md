@@ -480,3 +480,14 @@ Pick any topic you want.
 - [Dropdown tests](https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61)
 - [Mermaid at UPPMAX documentation](https://docs.uppmax.uu.se/getting_started/login_bianca/#overview)
 - [Mermaid at NBIS course](https://uppmax.github.io/programming_formalisms/misc/exercise_procedure/)
+
+## Files used by continuous integration scripts
+
+Filename                                  |Descriptions
+------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
+[mlc_config.json](mlc_config.json)        |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
+[.spellcheck.yml](.spellcheck.yml)        |Configuration of the spell checker, use `pyspelling -c .spellcheck.yml` to do spellcheck locally
+[.wordlist.txt](.wordlist.txt)            |Whitelisted words for the spell checker, use `pyspelling -c .spellcheck.yml` to do spellcheck locally
+[.markdownlint.jsonc](.markdownlint.jsonc)|Configuration of the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
+[.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
+
