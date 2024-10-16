@@ -85,12 +85,12 @@ flowchart TD
   need_data[Need data?]
   need_fast[Need fast or sloppy or text-only?]
   need_render[Need online rendering?]
-  need_data --> |yes| R[Programming languages\nR and ggplot2\nPython and matplotlib\nOthers]
+  need_data --> |yes| R[Programming languages. R and ggplot2. Python and matplotlib. Others]
   need_data --> |no| need_fast
-  need_fast --> |no| Adobe[Adobe Illustrator\nGIMP\nOther tools]
+  need_fast --> |no| Adobe[Adobe Illustrator. GIMP. Other tools]
   need_fast --> |yes| need_render
   need_render --> |yes| Mermaid
-  need_render --> |no| GraphViz[GraphViz\nOthers]
+  need_render --> |no| GraphViz[GraphViz. Others]
 ```
 
 
