@@ -7,6 +7,7 @@ nav:
   - Misc:
     - Schedule: misc/schedule.md
     - About Richel: misc/richel.md
+    - Links: misc/links.md
   - Sessions:
     - Introduction to mermaid: sessions/intro_to_mermaid.md
     - First experience: sessions/first_experience.md
