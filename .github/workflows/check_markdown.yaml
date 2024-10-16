@@ -1,13 +1,13 @@
 # Check that there is correct markdown in all files
 name: Check markdown
 
-# Check spelling on the 2nd day of the month.
-# 2nd as the first letter of this repo is the 2nd letter in the alphabet.
+# Check markdown on the 16th day of the month.
+# 16th as the first letter of this repo is the 16th letter in the alphabet.
 on:
   push:
   pull_request:
   schedule:
-  - cron: "0 0 2 * *"
+  - cron: "0 0 16 * *"
 
 jobs:
   check_markdown:
