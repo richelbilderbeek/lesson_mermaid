@@ -9,6 +9,7 @@ nav:
     - About Richel: misc/richel.md
   - Sessions:
     - Introduction to mermaid: sessions/intro_to_mermaid.md
+    - First experience: sessions/first_experience.md
     - Mermaid terminology: sessions/mermaid_terminology.md
     - Publishing graphs: sessions/publishing_graphs.md
     - Improving the layout of graphs: sessions/improving_layout.md
