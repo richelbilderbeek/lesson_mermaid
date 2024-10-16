@@ -80,6 +80,8 @@ first draft for a more pretty graph.
 
 ## Bigger picture
 
+<!-- markdownlint-disable MD013 -->
+
 ```mermaid
 flowchart TD
   need_data[Need data?]
@@ -92,6 +94,8 @@ flowchart TD
   need_render --> |yes| Mermaid
   need_render --> |no| GraphViz[GraphViz. Others]
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 ## Overview of sessions
 
