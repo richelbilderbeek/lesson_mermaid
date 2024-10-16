@@ -1,3 +1,13 @@
+config
+json
+jsonc
+linter
+markdownlint
+markdownlintignore
+mlc
+txt
+wordlist
+yml
 Dropdown
 https
 md
