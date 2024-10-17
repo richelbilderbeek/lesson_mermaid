@@ -34,7 +34,7 @@ so that the next lecturer could also start 15 minutes earlier.
 I think this was a good choice.
 
 I was able to see the progress of the learners well and had short one-on-ones
-with around two-thirds of them. 
+with around two-thirds of them.
 
 There were some things in the exercises that could be improved (thanks
 to Sara, from Belgium, for pointing that out).
@@ -61,11 +61,7 @@ as shown above. Monologues:
 I talked (9 + 4 + 5 + 1 + 2 =) 21 minutes of 65 minutes,
 which is around 32% of the time. I feel this is too much.
 I think this can be explained by having a better rule what yes/no
-to discuss. 
+to discuss.
 
 - [ ] Prepare what yes/no to discuss
-
-
-
-
 
