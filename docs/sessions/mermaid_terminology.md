@@ -5,9 +5,37 @@
     - Learners understand what Mermaid is
     - Learners have practiced with the Mermaid editor
 
+???- info "For teachers"
+
+    Lesson plan:
+
+    - Prior knowledge:
+        - What is a markup language?
+        - Can you give examples of markup languages?
+        - Why use markup languages?
+        - What is a graph in this context?
+        - What are properties of a graph?
+        - What is a graph root?
+        - What is a graph concept?
+        - What is a graph node?
+        - What is a graph vertex?
+        - What is a graph relation?
+        - What is a graph edge?
+    - Present:
+        - What is a markup language?
+        - Why use a markup language?
+    - Challenge: exercise
+    - Feedback: ask 1 random learner to show mindmap
+
 Mermaid is a markup language to create graphs.
 
 A markup language is a language that describes the markup of something.
+Typically, this involves you writing down the structure
+of how things should look like,
+where software will take care of the details.
+A markup language allow you to store knowledge in plain text that is friendly
+to both humans and computers.
+
 In case of a mindmap, the Mermaid markup language uses indentation
 to indicate the structure of the mindmap.
 
@@ -18,6 +46,20 @@ Mermaid will do the layout for you.
 Options to decide upon the layout are absent or limited.
 This is a strength: you **should** let Mermaid do the layout for you,
 as the goal is to create graphs quickly, not to create graphs for publication.
+
+```mermaid
+flowchart TD
+  root_node[The root node]
+  concept_1[A concept]  
+  concept_2[A vertex]  
+  concept_3[A node]  
+  root_node --> |A relation| concept_1
+  root_node --> |An edge| concept_2
+```
+
+> Graph terminology:
+> The 'circles with text' can be called a node, a concept or a vertex.
+> The 'lines between things' can be called a relation or an edge.
 
 A mindmap is a graph that does not have relations between its
 nodes/vertices/concepts.

@@ -6,6 +6,20 @@
     - Learners have practiced with the Mermaid editor
     - Learners may have seen a technical error
 
+???- info "For teachers"
+
+    Lesson plan:
+
+    - Prior knowledge:
+        - What do you associate the word 'flowchart' with?
+        - How to create a flowchart?
+    - Present:
+        - what is mermaid?
+        - why use mermaid?
+        - go to <mermaid.live>, show flowchart, show syntax
+    - Challenge: exercise 2
+    - Feedback: ask 1 random learner to show mindmap
+
 Mermaid is a markup language to create graphs.
 
 Instead of talking about it, let's experience Mermaid first.

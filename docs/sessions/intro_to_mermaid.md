@@ -6,58 +6,25 @@
     - Learners understand when to consider Mermaid
     - Learners have practiced with the Mermaid editor to create a mindmap
     - Learners have practiced with the Mermaid editor to create a flowchart
-    - Learners have uploaded a Mermaid diagram to a GitHub README.md file
+    - Learners have uploaded a Mermaid diagram to a GitHub `README.md` file
     - Learners have improved the layout of a flowchart using subgraphs
 
 ???- info "For teachers"
 
-    ```mermaid
-    gantt
-      title Lesson plan
-      dateFormat X
-      axisFormat %s
-      section Coarse setup
-      Introduction : intro, 0, 5s
-      Theory 1: theory_1, after intro, 5s
-      Exercise 1: crit, exercise_1, after theory_1, 10s
-      Feedback 1: feedback_1, after exercise_1, 5s
-      Theory 2: theory_2, after feedback_1, 5s
-      Exercise 2: crit, exercise_2, after theory_2, 15s
-      Break 1: crit, break_1, 45, 15s
-      Feedback 2: feedback_2, after break_1, 10s
-      Theory 3: theory_3, after feedback_2, 10s
-      Exercise 3: crit, exercise_3, after theory_3, 10s
-      Feedback 3: feedback_3, after exercise_3, 5s
-      Extra/Break: after feedback_3, 10s
-      Break 2: crit, 105, 15s
-    ```
-
     Lesson plan:
 
-    - Who I am
-    - Cycle 1:
-        - Prior knowledge:
-            - What do you associate the word 'diagram' with?
-            - What types of diagrams are there? Mention mindmap and flowchart
-            - How to create diagrams?
-            - How to publish diagrams?
-            - What is a mindmap?
-            - How to create a mindmap?
-        - Present: go to <mermaid.live>, show mindmap, show syntax
-        - Challenge: exercise 1
-        - Feedback:
-            - ask 1 random learner to show mindmap, else show mine
-            - ask drawback of mindmaps. Cannot link between nodes
-    - Cycle 2:
-        - Prior knowledge:
-            - What do you associate the word 'flowchart' with?
-            - How to create a flowchart?
-        - Present:
-            - what is mermaid?
-            - why use mermaid?
-            - go to <mermaid.live>, show flowchart, show syntax
-        - Challenge: exercise 2
-        - Feedback: ask 1 random learner to show mindmap
+    - Prior knowledge:
+        - What do you associate the word 'diagram' with?
+        - What types of diagrams are there? Mention mindmap and flowchart
+        - How to create diagrams?
+        - How to publish diagrams?
+        - What is a mindmap?
+        - How to create a mindmap?
+    - Present: go to <mermaid.live>, show mindmap, show syntax
+    - Challenge: exercise
+    - Feedback:
+        - ask 1 random learner to show mindmap, else show mine
+        - ask drawback of mindmaps. Cannot link between nodes
 
 ## Why
 
@@ -96,3 +63,19 @@ flowchart TD
 ```
 
 <!-- markdownlint-enable MD013 -->
+
+## Graph terminology
+
+```mermaid
+flowchart TD
+  root_node[The root node]
+  concept_1[A concept]  
+  concept_2[A vertex]  
+  concept_3[A node]  
+  root_node --> |A relation| concept_1
+  root_node --> |An edge| concept_2
+```
+
+> Graph terminology:
+> The 'circles with text' can be called a node, a concept or a vertex.
+> The 'lines between things' can be called a relation or an edge.
