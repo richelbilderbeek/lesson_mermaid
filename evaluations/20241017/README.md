@@ -1,5 +1,9 @@
 # Evaluation 2024-10-17
 
+Below are the evaluation results.
+These are discussed in 
+[my reflection on that teaching session](../../reflections/20241017/README.md).
+
 ## Anonymous feedback
 
 ![Evaluation results](evaluation.png)
