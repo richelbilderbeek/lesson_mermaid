@@ -68,13 +68,13 @@ to discuss.
 Now [the anonymous feedback](../../evaluations/20241017/README.md) is in,
 with two responses:
 
-```
+```text
 5/5
 ```
 
 Yay! And
 
-```
+```text
 I loved it! Fun and easy to follow! I like the way you teach, but sometimes it was a bit flickering while walking back and forth.. 
 
 In retrosepctive, I would have appreciated some more time on showing details in the process of constructing the mindmaps/flowcharts..
@@ -82,9 +82,12 @@ In retrosepctive, I would have appreciated some more time on showing details in 
 Keep it up!
 ```
 
-I think this is great feedback! Indeed, I should have been doing a stronger
+I think this is great feedback! Indeed, 
+I should have been doing a stronger
 Feedback phase and demo live how to build these. I'll try to do so next time.
 
 - [ ] Show the process of constructing the mindmaps/flowcharts
 
-
+Also, the 'a bit flickering while walking back and forth' is correct: my laptop
+was far away from the screen, so I had to walk more than I'd have liked too.
+I could not reasonably have fixed this, yet I enjoy such an observant learner!

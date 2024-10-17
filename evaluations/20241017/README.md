@@ -5,13 +5,13 @@
 ![Evaluation results](evaluation.png)
 
 
-```
+```text
 5/5
 ```
 
 and
 
-```
+```text
 I loved it! Fun and easy to follow! I like the way you teach, but sometimes it was a bit flickering while walking back and forth.. 
 
 In retrosepctive, I would have appreciated some more time on showing details in the process of constructing the mindmaps/flowcharts..
