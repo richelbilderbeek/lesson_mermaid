@@ -1,6 +1,6 @@
 # mermaid terminology
 
-???- info "Learning objectives"
+???+ info "Learning objectives"
 
     - Learners understand what Mermaid is
     - Learners have practiced with the Mermaid editor
@@ -49,26 +49,6 @@ as the goal is to create graphs quickly, not to create graphs for publication.
 
 ```mermaid
 flowchart TD
-  root_node[The root node]
-  concept_1[A concept]  
-  concept_2[A vertex]  
-  concept_3[A node]  
-  root_node --> |A relation| concept_1
-  root_node --> |An edge| concept_2
-```
-
-> Graph terminology:
-> The 'circles with text' can be called a node, a concept or a vertex.
-> The 'lines between things' can be called a relation or an edge.
-
-A mindmap is a graph that does not have relations between its
-nodes/vertices/concepts.
-For complex information, however, one would enjoy to express this
-by adding edges/relations.
-A mermaid flowchart allows one to create graphs of a complex structure.
-
-```mermaid
-flowchart TD
   concept_1[This is a vertex/node/concept]
   concept_2[Another one]  
   concept_3[Another one]  
@@ -76,17 +56,55 @@ flowchart TD
   concept_1 --> concept_3 --> concept_2
 ```
 
+> Graph terminology:
+> The 'circles with text' can be called a vertex/node/concept.
+> The 'lines between things' can be called an edge/relation.
+
+A mindmap is a graph that does not have relations between its
+nodes/vertices/concepts.
+For complex information, however, one would enjoy to express this
+by adding edges/relations.
+A mermaid flowchart allows one to create graphs of a complex structure.
+
 ## Exercise: a flowchart
 
 ???- question "Need a video?"
 
     Here is a video of someone doing this exercise: [https://youtu.be/I9UI7DUM81k](https://youtu.be/I9UI7DUM81k)
 
-What do you associate with the word 'graph'?
+```mermaid
+flowchart TD
+  Sweden
+  Snow
+  Cold
+  Skiing
+  Vikings
+  Boats
+  Swords
+  Nature
+  Forests
+  More_forests[More forests]
+  Sweden --> Nature
+  Sweden --> Snow --> Cold
+  Nature <--> Snow
+  Snow --> Skiing
+  Sweden --> Vikings
+  Vikings --> Boats
+  Vikings --> Swords
+  Nature --> Forests
+  Nature --> More_forests
+  Forests --> |Needed to build| Boats
+```
+
+> An example mermaid flowchart, with associations to 'Sweden'.
+
+In this exercise, we'll be making a **flowchart**
+of your associations with the word 'graphs'.
 
 - Go to [https://mermaid.live](https://mermaid.live)
 - Click on 'Sample Diagrams' then click 'Flow'
-- Modify the flowchart so that the word 'Graphs' is at the center
+- Modify the flowchart so that the word 'Graphs' is somewhere
+- Modify the flowchart so that it shows your associations with the word 'graphs'
 - If needed, visit [the Mermaid documentation on flowcharts](https://mermaid.js.org/syntax/flowchart.html)
 - (optional) On the edges, describe the relationships between the concepts.
 

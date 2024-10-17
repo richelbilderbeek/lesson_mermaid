@@ -1,6 +1,6 @@
 # First experience with mermaid
 
-???- info "Learning objectives"
+???+ info "Learning objectives"
 
     - Learners get a first impression of what Mermaid is
     - Learners have practiced with the Mermaid editor
@@ -33,17 +33,28 @@ Instead of talking about it, let's experience Mermaid first.
 
 ```mermaid
 mindmap
-  root((Graphs))
+  root((Sweden))
+    Snow
+      Cold
+      Sking
+    Vikings
+      boats
+      swords
+    Nature
+      Forests
+      More forests
 ```
 
-> A mermaid thingie.
+> An example mermaid mindmap, with associations to 'Sweden'.
 
-What do you associate with the word 'graphs'?
+In this exercise, we'll be making a mindmap
+of your associations with the word 'graphs'.
 
 - Go to [https://mermaid.live](https://mermaid.live)
 - Click on 'Sample Diagrams' then click 'Mindmap'
 - Modify the mindmap so that the word 'Graphs' is at the center
-- Modify the mindmap so that it shows your associations with the word 'graphs' visually
+- Modify the mindmap so that it shows your associations with the word 'graphs'
+  visually. No need to make it deeper than three layers.
 - (optional) visit [the mermaid documentation on mindmaps](https://mermaid.js.org/syntax/mindmap.html)
 
 Questions:
