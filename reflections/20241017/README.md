@@ -74,6 +74,8 @@ with two responses:
 
 Yay! And
 
+<!-- markdownlint-disable MD013 -->
+
 ```text
 I loved it! Fun and easy to follow! I like the way you teach, but sometimes it was a bit flickering while walking back and forth.. 
 
@@ -82,7 +84,9 @@ In retrosepctive, I would have appreciated some more time on showing details in 
 Keep it up!
 ```
 
-I think this is great feedback! Indeed, 
+<!-- markdownlint-enable MD013 -->
+
+I think this is great feedback! Indeed,
 I should have been doing a stronger
 Feedback phase and demo live how to build these. I'll try to do so next time.
 
