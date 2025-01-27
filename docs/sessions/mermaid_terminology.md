@@ -1,6 +1,6 @@
 # mermaid terminology
 
-???+ info "Learning objectives"
+???+ info "Learning outcomes"
 
     - Learners understand what Mermaid is
     - Learners have practiced with the Mermaid editor

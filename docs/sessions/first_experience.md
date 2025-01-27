@@ -1,6 +1,6 @@
 # First experience with mermaid
 
-???+ info "Learning objectives"
+???+ info "Learning outcomes"
 
     - Learners get a first impression of what Mermaid is
     - Learners have practiced with the Mermaid editor

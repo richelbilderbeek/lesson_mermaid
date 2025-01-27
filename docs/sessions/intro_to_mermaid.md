@@ -1,6 +1,6 @@
 # Intro to mermaid
 
-???+ info "Learning objectives"
+???+ info "Learning outcomes"
 
     - Learners understand what Mermaid is
     - Learners understand when to consider Mermaid
