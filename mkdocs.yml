@@ -38,7 +38,7 @@ theme:
     text: Lato
     code: JetBrains Mono
 
-  logo: assets/logo_color.png
+  logo: logos/r_written.png
 
   features:
     - toc.integrate
