@@ -4,7 +4,7 @@ repo_url: https://github.com/richelbilderbeek/lesson_mermaid
 
 nav:
   - Home: index.md
-  - Schedule: misc/schedule.md
+  - Schedule: schedule.md
   - Sessions:
     - Introduction to mermaid: sessions/intro_to_mermaid.md
     - First experience: sessions/first_experience.md
@@ -13,7 +13,7 @@ nav:
     - Improving the layout of graphs: sessions/improving_layout.md
   - Misc:
     - Data: data/README.md
-    - Evaluation: misc/evaluation.md
+    - Evaluation: evaluation.md
     - Evaluations: evaluations/README.md
     - Lesson plans: lesson_plans/README.md
     - Links: misc/links.md
