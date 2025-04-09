@@ -11,9 +11,9 @@
 
 ???- info "For teachers"
 
-    Lesson plan:
-
     - Prior knowledge:
+        - How do you work together?
+        - How do you make a quick sketch of a schematic drawing?
         - What do you associate the word 'diagram' with?
         - What types of diagrams are there? Mention mindmap and flowchart
         - How to create diagrams?
