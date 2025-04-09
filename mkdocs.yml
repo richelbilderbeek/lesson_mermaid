@@ -19,6 +19,18 @@ nav:
     - Links: misc/links.md
     - Reflections: reflections/README.md
 
+
+not_in_nav: |
+  evaluations/20240416/README.md
+  evaluations/20241017/README.md
+  evaluations/20250410/README.md
+  lesson_plans/20240416/README.md
+  lesson_plans/20241017/README.md
+  lesson_plans/20250410/README.md
+  reflections/20240416/README.md
+  reflections/20241017/README.md
+  reflections/20250410/README.md
+
 theme:
   name: material
   greetings: Welcome to Intro to Mermaid
