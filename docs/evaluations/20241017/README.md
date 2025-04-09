@@ -2,7 +2,7 @@
 
 Below are the evaluation results.
 
-- Reflections: [Richel](../../20241017/20240122/README.md)
+- Reflections: [Richel](../../reflections/20241017/README.md)
 
 ## Anonymous feedback
 

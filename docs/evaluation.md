@@ -2,7 +2,7 @@
 
 Here is a simple form for suggesting anything anonymously:
 
-- [Any feedback during the day](https://docs.google.com/forms/d/e/1FAIpQLSdia2vLqdsE8G05fMHQZOyqqpIoOSaPOYhQk6LwqymXyOYbsg/viewform?usp=sf_link)
+- Any feedback during the day: `[...]`
 
 ???- question "For teachers: what is in that form?"
 
