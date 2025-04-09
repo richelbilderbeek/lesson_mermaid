@@ -19,7 +19,10 @@ However, what about I set a limit:
 - [x] [Will not use] Consider using [https://excalidraw.com/](https://excalidraw.com/)
     - One can do shared sessions, yet not typing together in a markdown document
 - [ ] Consider using [https://hackmd.io/](https://hackmd.io/)
-    - This works great! Sharing is easy too.
+    - This works great! Sharing is easy too. The course, however, uses
+      GitHub and I do think this is superior, as it has version control.
+      However, HackMD is superior in doing real-time collaboration.
+      Maybe do both?
 
 ![Mermaid in HackMD](mermaid_in_hackmd.png)
 
