@@ -16,4 +16,10 @@ However, what about I set a limit:
   do introduce me and my teaching methods
 - else do not
 
-- [ ] Consider using [https://excalidraw.com/](https://excalidraw.com/)
+- [x] [Will not use] Consider using [https://excalidraw.com/](https://excalidraw.com/)
+    - One can do shared sessions, yet not typing together in a markdown document
+- [ ] Consider using [https://hackmd.io/](https://hackmd.io/)
+    - This works great! Sharing is easy too.
+
+![Mermaid in HackMD](mermaid_in_hackmd.png)
+
