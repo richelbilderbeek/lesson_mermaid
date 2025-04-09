@@ -6,6 +6,28 @@
     - Learners have practiced with the Mermaid editor
     - Learners have uploaded a Mermaid diagram to a GitHub README.md file
 
+
+# When to use mermaid?
+
+<!-- markdownlint-disable MD013 -->
+
+```mermaid
+flowchart TD
+  need_data[Need data?]
+  need_fast[Need fast or sloppy or text-only?]
+  need_render[Need online rendering?]
+  need_data --> |yes| R[Programming languages. R and ggplot2. Python and matplotlib. Others]
+  need_data --> |no| need_fast
+  need_fast --> |no| Adobe[Adobe Illustrator. GIMP. Other tools]
+  need_fast --> |yes| need_render
+  need_render --> |yes| Mermaid
+  need_render --> |no| GraphViz[GraphViz. Others]
+```
+
+<!-- markdownlint-enable MD013 -->
+
+# Why to use GitHub?
+
 Mermaid is a markup language to create graphs.
 
 One probably wants to share these graphs.
