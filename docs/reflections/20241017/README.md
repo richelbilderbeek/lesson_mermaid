@@ -49,7 +49,7 @@ each session. This is because these boxes were folded.
 Summarizing the lesson, I think it was a relaxed, lightweight session
 that reached its teaching goals, albeit executed a bit sloppily.
 
-Reading Meikes observations, I see that indeed the schedule is indeed
+Reading Meike's observations, I see that indeed the schedule is indeed
 as shown above. Monologues:
 
 - 9:00-9:09: 9 minutes
@@ -72,7 +72,7 @@ with two responses:
 5/5
 ```
 
-Yay! And
+Could have been worse :-) ! And
 
 <!-- markdownlint-disable MD013 -->
 
