@@ -20,16 +20,34 @@
     - Challenge: exercise 2
     - Feedback: ask 1 random learner to show mindmap
 
-Mermaid is a markup language to create graphs.
+## Why use mermaid?
+
+You want to express the rules for the game
+[Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)
+in a graph.
+
+In 1 minute you create this graph:
+
+```mermaid
+flowchart TD
+  Paper --> |beats| Rock 
+   --> |beats| Scissors
+   --> |beats| Paper
+```
+
+Mermaid allows you to create such graphs.
+Sometimes, these are good enough, sometimes they are used as a
+first draft for a more pretty graph.
 
 Instead of talking about it, let's experience Mermaid first.
 
-## Exercise: first experience
+## Exercises
+
+### Exercise 1: first experience
 
 ???- question "Need a video?"
 
     Here is a video of someone doing this exercise: [https://youtu.be/tObmaZp3fIg](https://youtu.be/tObmaZp3fIg)
-
 
 ```mermaid
 mindmap
@@ -48,16 +66,43 @@ mindmap
 > An example mermaid mindmap, with associations to 'Sweden'.
 
 In this exercise, we'll be making a mindmap
-of your associations with the word 'graphs'.
+of your associations with a topic of your choice.
 
 - Go to [https://mermaid.live](https://mermaid.live)
 - Click on 'Sample Diagrams' then click 'Mindmap'
-- Modify the mindmap so that the word 'Graphs' is at the center
-- Modify the mindmap so that it shows your associations with the word 'graphs'
-  visually. No need to make it deeper than three layers.
-- (optional) visit [the mermaid documentation on mindmaps](https://mermaid.js.org/syntax/mindmap.html)
+- Modify the mindmap so that the topic to associate on
+  (e.g. 'Graphs' or 'Sweden' or 'Using a computer') is at the center.
+- Modify the mindmap so that it shows your associations with that word
+  visually.
+  When you feel you are done, you are done.
 
-Questions:
+???- question "Answer"
+
+    This is example for the topic 'Graphs':
+
+    ```mermaid
+    mindmap
+      root((Graphs))
+        Images that convey information
+          work on data
+          **self-contained**
+        Types
+          **Mindmap**
+          Flowchart
+          Gantt chart
+        Tools
+          **mermaid.live**
+          Visual programs
+          **Text editor**
+        Defined/created by ...
+          A markup language
+            DOT
+            SVG
+            **Mermaid**
+          WYSIWYG
+    ```
+
+### Exercise 2: theory
 
 - What can you express in a Mermaid mindmap?
 
@@ -86,28 +131,3 @@ Questions:
 
     You will get an error for `[` and `(`, as Mermaid uses these operators
     for special markup.
-
-???- question "My associations with the word 'graphs' as a mindmap"
-
-    ```mermaid
-    mindmap
-      root((Graphs))
-        Images that convey information
-          work on data
-          **self-contained**
-        Types
-          **Mindmap**
-          Flowchart
-          Gantt chart
-        Tools
-          **mermaid.live**
-          Visual programs
-          **Text editor**
-        Defined/created by ...
-          A markup language
-            DOT
-            SVG
-            **Mermaid**
-          WYSIWYG
-    ```
-
