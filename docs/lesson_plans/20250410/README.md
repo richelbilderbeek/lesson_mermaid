@@ -27,7 +27,6 @@ However, what about I set a limit:
 ![Mermaid in HackMD](mermaid_in_hackmd.png)
 
 
-
 This was the lesson plan in the schedule:
 
 ```mermaid

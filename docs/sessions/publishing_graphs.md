@@ -7,7 +7,7 @@
     - Learners have uploaded a Mermaid diagram to a GitHub README.md file
 
 
-# When to use Mermaid?
+## When to use Mermaid?
 
 <!-- markdownlint-disable MD013 -->
 
@@ -26,7 +26,7 @@ flowchart TD
 
 <!-- markdownlint-enable MD013 -->
 
-# Why to use GitHub?
+## Why use GitHub?
 
 Mermaid is a markup language to create graphs.
 
