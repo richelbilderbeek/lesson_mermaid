@@ -1,11 +1,11 @@
 # Mermaid terminology
 
-???+ info "Learning outcomes"
+!!! info "Learning outcomes"
 
     - Learners understand what Mermaid is
     - Learners have practiced with the Mermaid editor
 
-???- info "For teachers"
+???- question "For teachers"
 
     Lesson plan:
 

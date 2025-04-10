@@ -1,6 +1,6 @@
 # Publishing Mermaid graphs
 
-???+ info "Learning outcomes"
+!!! info "Learning outcomes"
 
     - Learners understand what Mermaid is
     - Learners have practiced with the Mermaid editor

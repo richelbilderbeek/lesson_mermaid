@@ -1,12 +1,12 @@
 # First experience with Mermaid
 
-???+ info "Learning outcomes"
+!!! info "Learning outcomes"
 
     - Learners get a first impression of what Mermaid is
     - Learners have practiced with the Mermaid editor
     - Learners may have seen a technical error
 
-???- info "For teachers"
+???- question "For teachers"
 
     Lesson plan:
 

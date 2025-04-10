@@ -1,6 +1,6 @@
 # Improving the layout of a Mermaid graph
 
-???+ info "Learning outcomes"
+!!! info "Learning outcomes"
 
     - Learners understand what Mermaid is
     - Learners have practiced with the Mermaid editor
