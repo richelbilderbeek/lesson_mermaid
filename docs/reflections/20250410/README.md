@@ -37,7 +37,7 @@ Time |Description
 9:40 |Mermaid terminology
 9:50 |Break (keep BO rooms open)
 10:00|Continue and (optional) Publishing your graphs
-10:20|[Evaluation](evaluation.md) and short break
+10:20|Evaluation and short break
 10:30|End
 
 ## Evaluation results
