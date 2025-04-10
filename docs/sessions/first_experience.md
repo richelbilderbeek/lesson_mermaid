@@ -54,7 +54,7 @@ mindmap
   root((Sweden))
     Snow
       Cold
-      Sking
+      Skiing
     Vikings
       boats
       swords
