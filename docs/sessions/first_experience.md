@@ -1,4 +1,4 @@
-# First experience with mermaid
+# First experience with Mermaid
 
 ???+ info "Learning outcomes"
 
@@ -14,13 +14,13 @@
         - What do you associate the word 'flowchart' with?
         - How to create a flowchart?
     - Present:
-        - what is mermaid?
-        - why use mermaid?
+        - what is Mermaid?
+        - why use Mermaid?
         - go to <mermaid.live>, show flowchart, show syntax
     - Challenge: exercise 2
     - Feedback: ask 1 random learner to show mindmap
 
-## Why use mermaid?
+## Why use Mermaid?
 
 You want to express the rules for the game
 [Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)
@@ -63,7 +63,7 @@ mindmap
       More forests
 ```
 
-> An example mermaid mindmap, with associations to 'Sweden'.
+> An example Mermaid mindmap, with associations to 'Sweden'.
 
 In this exercise, we'll be making a mindmap
 of your associations with a topic of your choice.
@@ -75,6 +75,8 @@ of your associations with a topic of your choice.
 - Modify the mindmap so that it shows your associations with that word
   visually.
   When you feel you are done, you are done.
+- (optional) Visit [the Mermaid documentation on mindmaps](https://mermaid.js.org/syntax/mindmap.html)
+  and use one feature
 
 ???- question "Answer"
 

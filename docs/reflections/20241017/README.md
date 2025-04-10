@@ -21,8 +21,8 @@ This is the schedule, with the changes indicated:
 
 Time |Description
 -----|-----------
-9:00 |Intro to mermaid
-9:05 -> 9:10 |Your first mermaid experience
+9:00 |Intro to Mermaid
+9:05 -> 9:10 |Your first Mermaid experience
 9:25 |Mermaid terminology
 10:00 -> 9:45 |Publishing your graphs or Improving the layout of your graphs
 9:50 |Break

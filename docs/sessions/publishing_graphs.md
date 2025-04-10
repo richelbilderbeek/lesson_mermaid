@@ -1,4 +1,4 @@
-# Publishing mermaid graphs
+# Publishing Mermaid graphs
 
 ???+ info "Learning outcomes"
 
@@ -7,7 +7,7 @@
     - Learners have uploaded a Mermaid diagram to a GitHub README.md file
 
 
-# When to use mermaid?
+# When to use Mermaid?
 
 <!-- markdownlint-disable MD013 -->
 
@@ -59,7 +59,7 @@ In this exercise, the graph is unimportant: pick your favorite :-)
 
 ````text
 ```mermaid
-[your mermaid code here]
+[your Mermaid code here]
 ```
 ````
 

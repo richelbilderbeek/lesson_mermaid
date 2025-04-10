@@ -1,4 +1,4 @@
-# Improving the layout of a mermaid graph
+# Improving the layout of a Mermaid graph
 
 ???+ info "Learning outcomes"
 
@@ -32,7 +32,7 @@ flowchart TD
     end
   end
   subgraph tools[Tools]
-    mermaid_live[mermaid.live]
+    Mermaid_live[mermaid.live]
     python[Python]
     r[R]
   end
@@ -46,7 +46,7 @@ flowchart TD
 
   graphs --> |drawn by| tools
 
-  mermaid_live <--> |works on|self_contained
+  Mermaid_live <--> |works on|self_contained
   python --> |works on| need_data
   r --> |works on| need_data
 ```
