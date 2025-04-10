@@ -29,7 +29,7 @@ that the learners can use. I expect that the learners write down that they
 needed more time, and I already agree. Note that I already simplified the
 course material to have more time for exercises.
 
-- [ ] Use schedule below
+- [x] Use schedule below
 
 Time |Description
 -----|-----------
