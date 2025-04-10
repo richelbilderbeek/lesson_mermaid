@@ -11,8 +11,11 @@
     Lesson plan:
 
     - Prior knowledge:
-        - What do you associate the word 'flowchart' with?
-        - How to create a flowchart?
+        - What is a graph?
+        - What do you associate the word 'graph' with?
+        - What do you associate the word 'mindmap' with?
+        - When could you use a mindmap?
+        - How would you create a mindmap?
     - Present:
         - what is Mermaid?
         - why use Mermaid?
