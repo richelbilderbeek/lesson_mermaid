@@ -24,7 +24,7 @@ These three learners did so and did have enough time to publish a
 mermaid graph, so that is at least something. But it was not a
 complete session at all :-/
 
-Next time, only do mindmap and flowchart: it gaves a lot of air to the course
+Next time, only do mindmap and flowchart: it gives a lot of air to the course
 that the learners can use. I expect that the learners write down that they
 needed more time, and I already agree. Note that I already simplified the
 course material to have more time for exercises.
