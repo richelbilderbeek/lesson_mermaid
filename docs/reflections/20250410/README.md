@@ -78,7 +78,7 @@ is interesting: I do this because other people get stressed out because
 of not being able to say 'Let's read first'. I guess this learner has
 no problems with saying so. I agree that such things should not need
 saying, but I feel in practice -when working with people from many
-different cultures- I need to do so. 
+different cultures- I need to do so.
 
 The 'I understand the wish for people to turn on camera
 but would prefer it to be voluntary still' is another good point.
