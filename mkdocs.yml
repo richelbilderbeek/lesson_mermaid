@@ -4,6 +4,7 @@ repo_url: https://github.com/richelbilderbeek/lesson_mermaid
 
 nav:
   - Home: index.md
+  - Learning outcomes: learning_outcomes.md
   - Schedule: schedule.md
   - Sessions:
     - Introduction to mermaid: sessions/intro_to_mermaid.md

@@ -1,11 +1,10 @@
-# Learning 
+# Learning outcomes
 
-???+ info "Learning outcomes"
+These are the learning outcomes of the course,
+as tested by [its evaluation](evaluation.md).
 
-    - Learners understand what Mermaid is
-    - Learners understand when to consider Mermaid
-    - Learners have practiced with the Mermaid editor to create a mindmap
-    - Learners have practiced with the Mermaid editor to create a flowchart
-    - Learners have uploaded a Mermaid diagram to a GitHub `README.md` file
-    - Learners have improved the layout of a flowchart using subgraphs
-
+- I can tell what Mermaid is
+- I can tell when to use Mermaid
+- I can create a mindmap in the Mermaid live editor
+- I can create a flowchart in the Mermaid live editor
+- I can publish a Mermaid diagram on GitHub
