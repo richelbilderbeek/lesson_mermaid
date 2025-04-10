@@ -7,7 +7,6 @@ nav:
   - Learning outcomes: learning_outcomes.md
   - Schedule: schedule.md
   - Sessions:
-    - Introduction to mermaid: sessions/intro_to_mermaid.md
     - First experience: sessions/first_experience.md
     - Mermaid terminology: sessions/mermaid_terminology.md
     - Publishing graphs: sessions/publishing_graphs.md
