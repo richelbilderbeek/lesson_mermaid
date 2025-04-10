@@ -2,6 +2,7 @@
 
 t <- readr::read_csv("evaluation.csv")
 names(t)
+readr::write_lines(t$`Any other feedback?`, "other_feedback.txt")
 t$Timestamp <- NULL
 t$`Any other feedback?` <- NULL
 # tail(names(t))
