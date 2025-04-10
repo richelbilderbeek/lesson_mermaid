@@ -78,7 +78,7 @@ of your associations with a topic of your choice.
 - Modify the mindmap so that it shows your associations with that word
   visually.
   When you feel you are done, you are done.
-- (optional) Visit [the Mermaid documentation on mindmaps](https://mermaid.js.org/syntax/mindmap.html)
+- Visit [the Mermaid documentation on mindmaps](https://mermaid.js.org/syntax/mindmap.html)
   and use one feature
 
 ???- question "Answer"

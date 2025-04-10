@@ -99,15 +99,16 @@ flowchart TD
 > An example Mermaid flowchart, with associations to 'Sweden'.
 
 In this exercise, we'll be making a **flowchart**
-of your associations with the word 'graphs'.
+of your associations with a topic of your choice.
 
 - Go to [https://mermaid.live](https://mermaid.live)
 - Click on 'Sample Diagrams' then click 'Flow'
-- Modify the flowchart so that the word 'Graphs' is somewhere
-- Modify the flowchart so that it shows your associations with the word 'graphs'
-- (optional) Visit [the Mermaid documentation on flowcharts](https://mermaid.js.org/syntax/flowchart.html)
+- Modify the flowchart so that it shows your associations on the topic
+  you've chosen.
+  On at least 1 edge, describe the relationships between the concepts.
+  When you feel you are done, you are done.
+- Visit [the Mermaid documentation on flowcharts](https://mermaid.js.org/syntax/flowchart.html)
   and add one feature
-- (optional) On the edges, describe the relationships between the concepts.
 
 Questions:
 
