@@ -74,7 +74,7 @@ of your associations with a topic of your choice.
 - Go to [https://mermaid.live](https://mermaid.live)
 - Click on 'Sample Diagrams' then click 'Mindmap'
 - Modify the mindmap so that the topic to associate on
-  (e.g. 'Graphs' or 'Sweden' or 'Using a computer') is at the center.
+  (e.g. your research topic) is at the center.
 - Modify the mindmap so that it shows your associations with that word
   visually.
   When you feel you are done, you are done.

@@ -60,7 +60,7 @@ Time |Description
 
 Great idea! I change the focal topic to 'Your own research'
 
-- [ ] For the mindmap and flowchart, use your own research as
+- [x] For the mindmap and flowchart, use your own research as
   the topic to associate on
 
 - It is a really useful course, and interactive.
