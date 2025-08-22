@@ -90,7 +90,11 @@ keep off your camera'. Agreed!
 
 ## KI feedback results
 
-### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way.
+<!-- markdownlint-disable MD013 --><!-- Verbatim header cannot be split up over lines, hence will break 80 characters per line -->
+
+### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way
+
+<!-- markdownlint-enable MD013 -->
 
 - I especially liked the setting with break out rooms and small drawing tasks
   to engage people! You managed to have us build a connection as a
@@ -119,7 +123,7 @@ keep off your camera'. Agreed!
   so please keep these discussion/break out sessions in
   the course.
 - The teachers were excellent and actively tried to make the content engaging
-  (even the coding!). 
+  (even the coding!).
 
 Ha, that is me :-)
 
@@ -127,6 +131,7 @@ Ha, that is me :-)
   too. I learnt valuable knowledge in how to apply design principles
   to communicate my science. I like how we have each other feedback and we
   also got feedback from the teachers too.
+
 - Very interesting and fun course,
   Meike were highly engaged and really offered to help
   and provide feedback continuously during the course!
@@ -179,7 +184,11 @@ Ha, that is me :-)
   give input about the task.
   This is one of the best online courses I’ve ever attended.
 
-### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how.
+<!-- markdownlint-disable MD013 --><!-- Verbatim header cannot be split up over lines, hence will break 80 characters per line -->
+
+### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how
+
+<!-- markdownlint-enable MD013 -->
 
 - Maybe spend more time for Mermaid.
   It was a very interesting tool but in just a short time.
@@ -190,6 +199,7 @@ Hey, that is me :-)
   with different background because I learned a lot from them and
   also received valuable feedback for improving my figures
   (maybe try to keep spreading the word out of KI).
+
 - For me the less useful parts were the introduction to R/ggplot2,
   because I already had some programming background,
   so although I enjoyed the lectures from Martin and Richel,
