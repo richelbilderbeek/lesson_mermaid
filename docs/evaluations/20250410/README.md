@@ -68,8 +68,8 @@ There was none.
 - We have time to explore the software and make graphical
   abstract and figures for our own project.
 - The type of exercises, the pace of the course + the constant feedback
-  led to aquiring an actual skill, that we can use for our projects.
-  Illustrating can be chaotic in the beggining,
+  led to acquiring an actual skill, that we can use for our projects.
+  Illustrating can be chaotic in the beginning,
   especially with specific softwares,
   so this course helped having a clear view on where to begin.
   Also, this course provided enough material for future need,
@@ -109,7 +109,7 @@ There was none.
   I really enjoyed to do the assignments because I could use my own data
   do develop something I could use later on in my publications or
   presentations. It was also fun to know all the logic behind the way our
-  brain receive and interpretate an image, and the ways we could improve
+  brain receive and interpret an image, and the ways we could improve
   our illustrations for a better communication process.
   Also the use of different softwares and the potential of each one.
   I learned a lot and I am
@@ -168,7 +168,7 @@ There was none.
 - My only critique would be to maybe ask students at the start of the course
   their prior coding knowledge. As in the course information it is written
   like you need R and illustrator.
-  But the course is actually completeable with python and Inkscape/designer.
+  But the course is actually completable with python and Inkscape/designer.
   If there could be some sort of support possible for students
   who prefer python over R that would be great too.
 - It might be nice to introduce ggplot data visualisation earlier in week 1,
@@ -203,7 +203,7 @@ There was none.
   at varying price points, but considering i was just starting,
   I used the free choice.
   That was perhaps a bit more limiting in my ability to create something,
-  though Im not sure as I did not try the others.
+  though I'm not sure as I did not try the others.
   The last thing I would say is perhaps to put in some examples
   of work that is not so refined and submitted to journals and magazines -
   something that might be a bit more achievable for PhD/ post doc work.
