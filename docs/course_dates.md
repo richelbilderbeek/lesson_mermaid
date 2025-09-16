@@ -15,6 +15,6 @@ tags:
 
 Week    |Date                     |Time
 --------|-------------------------|----------
-40      |Thursday October 2nd 2025|9:30-11:00
+40      |Thursday October 2 2025  |9:30-11:00
 
 <!-- markdownlint-enable MD013 -->

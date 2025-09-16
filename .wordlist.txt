@@ -51,3 +51,4 @@ Jonnson's
 KI
 artboard
 learnt
+completable
