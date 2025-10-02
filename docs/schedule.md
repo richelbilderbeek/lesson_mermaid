@@ -19,7 +19,8 @@ Time |Description
 10:10|[Mermaid terminology](sessions/mermaid_terminology.md)
 10:20|Break
 10:30|[Mermaid terminology](sessions/mermaid_terminology.md) and (optional) [Publishing your graphs](sessions/publishing_graphs.md)
-10:50|[Evaluation](evaluation.md) and short break
+10:45|[Evaluation](evaluation.md)
+10:50|Short break
 11:00|End
 
 <!-- markdownlint-enable MD013 -->
