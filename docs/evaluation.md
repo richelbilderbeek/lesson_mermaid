@@ -1,5 +1,9 @@
 # Evaluation
 
+???- question "Where can I find the results of earlier evaluations?"
+
+    At [the 'Evaluations' page](evaluations/README.md).
+
 Here is a simple form for suggesting anything anonymously:
 
 - [Form for giving any feedback during the day](https://docs.google.com/forms/d/e/1FAIpQLScEWV8WHAjgcnTOsxVbgYeqIavGtpFFw1sVLidIzZy3u4do_w/viewform?usp=header)
