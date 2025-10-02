@@ -68,7 +68,7 @@ In this exercise, the graph is unimportant: pick your favorite :-)
 
 ````text
 ```mermaid
-[your Mermaid code here]
+Paste your Mermaid code here
 ```
 ````
 
