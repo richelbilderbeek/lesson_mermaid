@@ -24,8 +24,13 @@ There was none.
 [Other feedback](other_feedback.txt):
 
 - Thanks for being so upbeat and friendly:)
-- It is great to have to opportunity for some practice and to play around with the tool.
-- Very active session, it was good to learn in pairs to figure stuff out. I almost had an issue with publishing, as the instruction code line included [ ] around the code but your demo helped solve this issue. Also first time for me to create a repository on GitHub, I now understand that better too. Thanks for the session!
-- I struggled to change the layout of both the mind map and flow chart to align it with my thoughts/ story.
-
+- It is great to have to opportunity for some practice
+  and to play around with the tool.
+- Very active session, it was good to learn in pairs to figure stuff out.
+  I almost had an issue with publishing, as the instruction code line
+  included [ ] around the code but your demo helped solve this issue.
+  Also first time for me to create a repository on GitHub,
+  I now understand that better too. Thanks for the session!
+- I struggled to change the layout of both the mind map and flow chart
+  to align it with my thoughts/ story.
 
