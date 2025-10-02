@@ -6,6 +6,15 @@
     - Learners have practiced with the Mermaid editor
     - Learners have uploaded a Mermaid diagram to a GitHub README.md file
 
+???- question "For teachers"
+
+    Lesson plan:
+
+    - Prior knowledge:
+        - How would you publish your work?
+    - Feedback:
+        - How would you publish your work?
+
 
 ## When to use Mermaid?
 

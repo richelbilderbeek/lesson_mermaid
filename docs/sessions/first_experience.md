@@ -12,8 +12,7 @@
 
     - Prior knowledge:
         - What is a graph?
-        - What do you associate the word 'graph' with?
-        - What do you associate the word 'mindmap' with?
+        - What is a mindmap?
         - When could you use a mindmap?
         - How would you create a mindmap?
     - Present:
@@ -22,6 +21,7 @@
         - go to <mermaid.live>, show flowchart, show syntax
     - Challenge: exercise 2
     - Feedback: ask 1 random learner to show mindmap
+        - When could you use a mindmap?
 
 ## Why use Mermaid?
 

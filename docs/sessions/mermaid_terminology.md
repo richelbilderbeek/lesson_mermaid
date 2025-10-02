@@ -15,17 +15,14 @@
         - Why use markup languages?
         - What is a graph in this context?
         - What are properties of a graph?
-        - What is a graph root?
-        - What is a graph concept?
-        - What is a graph node?
-        - What is a graph vertex?
-        - What is a graph relation?
-        - What is a graph edge?
     - Present:
         - What is a markup language?
         - Why use a markup language?
     - Challenge: exercise
     - Feedback: ask 1 random learner to show mindmap
+        - What is a graph?
+        - What is a vertex?
+        - What is an edge?
 
 Mermaid is a markup language to create graphs.
 
