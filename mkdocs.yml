@@ -1,6 +1,6 @@
 site_name: Intro to Mermaid
-
 repo_url: https://github.com/richelbilderbeek/lesson_mermaid
+edit_uri: blob/main/docs/
 
 nav:
   - Home: index.md
