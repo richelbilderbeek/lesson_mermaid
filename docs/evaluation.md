@@ -2,7 +2,7 @@
 
 Here is a simple form for suggesting anything anonymously:
 
-- [Form for giving any feedback during the day](https://docs.google.com/forms/d/e/1FAIpQLSdKV2QyH3kk-tFMQbYRJ0SulGZ1HTDMN0Ssir9Fmts-TkMZ9g/viewform?usp=header)
+- [Form for giving any feedback during the day](https://docs.google.com/forms/d/e/1FAIpQLScEWV8WHAjgcnTOsxVbgYeqIavGtpFFw1sVLidIzZy3u4do_w/viewform?usp=header)
 
 ???- question "For teachers: what is in that form?"
 
@@ -12,7 +12,7 @@ Here is a simple form for suggesting anything anonymously:
     in the feedback.
     Do mention the teachers, assistants, etc by name!
 
-- [Evaluation form](https://docs.google.com/forms/d/e/1FAIpQLScPFAnuO6--0UuscCHStYbCsqbTbOwJRwx3_hm8r-pCjbJH4g/viewform?usp=header)
+- [Learning outcomes form](https://docs.google.com/forms/d/e/1FAIpQLSdUxKdvZ5V2wCgjcKpqV64AuHdp50ZYILhZH_K7dPSyiN5GHQ/viewform?usp=header)
 
 ???- question "For teachers: what is in that form?"
 
