@@ -50,3 +50,20 @@ correct layout is not a goal of Mermaid
 It went reasonably well. Due to my informality and unpreparedness,
 I would rate my teaching a 7 out of 10.
 
+## KTH evaluation results
+
+### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way. Were there any parts of the course that were excellent? If so, please specify which parts and in what way.
+
+Here I keep all feedback relevant to mermaid. Which is none :-)
+
+### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how.
+
+Here I keep all feedback relevant to mermaid:
+
+- I found that the mermaid toolbox was not that useful
+  and the time alocated to it was not needed.
+
+I agree that this can (and should be) debated: not everyone
+will benefit from this.
+
+- [ ] Discuss with Meike to keep/remove mermaid. I am fine with it either way.
