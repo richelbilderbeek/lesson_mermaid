@@ -6,7 +6,7 @@
 
 Here is a simple form for suggesting anything anonymously:
 
-- [Form for giving any feedback during the day](https://docs.google.com/forms/d/e/1FAIpQLScEWV8WHAjgcnTOsxVbgYeqIavGtpFFw1sVLidIzZy3u4do_w/viewform?usp=header)
+- Form for giving any feedback during the day `TODO: create a new one`
 
 ???- question "For teachers: what is in that form?"
 
@@ -16,7 +16,7 @@ Here is a simple form for suggesting anything anonymously:
     in the feedback.
     Do mention the teachers, assistants, etc by name!
 
-- [Learning outcomes form](https://docs.google.com/forms/d/e/1FAIpQLSdUxKdvZ5V2wCgjcKpqV64AuHdp50ZYILhZH_K7dPSyiN5GHQ/viewform?usp=header)
+- Learning outcomes form `TODO: create a new one`
 
 ???- question "For teachers: what is in that form?"
 
