@@ -52,11 +52,11 @@ I would rate my teaching a 7 out of 10.
 
 ## KTH evaluation results
 
-### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way. Were there any parts of the course that were excellent? If so, please specify which parts and in what way.
+### 16. Were there any parts of the course that were excellent?
 
 Here I keep all feedback relevant to mermaid. Which is none :-)
 
-### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how.
+### 17. Do you have any recommendations as to how the course could be improved?
 
 Here I keep all feedback relevant to mermaid:
 
