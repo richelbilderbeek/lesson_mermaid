@@ -61,7 +61,7 @@ Here I keep all feedback relevant to mermaid. Which is none :-)
 Here I keep all feedback relevant to mermaid:
 
 - I found that the mermaid toolbox was not that useful
-  and the time alocated to it was not needed.
+  and the time allocated to it was not needed.
 
 I agree that this can (and should be) debated: not everyone
 will benefit from this.
