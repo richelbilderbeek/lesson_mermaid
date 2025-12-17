@@ -15,8 +15,8 @@
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Filename                                  |Descriptions
-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
+Filename                                    |Descriptions
+--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
 [`mlc_config.json`](mlc_config.json)        |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
 [`.spellcheck.yml`](.spellcheck.yml)        |Configuration of the spell checker, use `./scripts/check_spelling.sh` to do spell check locally
 [`.wordlist.txt`](.wordlist.txt)            |Whitelisted words for the spell checker, use `./scripts/check_spelling.sh` to do spell check locally
