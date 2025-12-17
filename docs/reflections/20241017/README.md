@@ -19,14 +19,14 @@ This means they were about ((65 - 80) / 80 = −0.1875 =) 20% faster.
 
 This is the schedule, with the changes indicated:
 
-Time |Description
------|-----------
-9:00 |Intro to Mermaid
-9:05 -> 9:10 |Your first Mermaid experience
-9:25 |Mermaid terminology
-10:00 -> 9:45 |Publishing your graphs or Improving the layout of your graphs
-9:50 |Break
-10:00 |Publishing your graphs or Improving the layout of your graphs
+Time           |Description
+---------------|--------------------------------------------------------------
+9:00           |Intro to Mermaid
+9:05 -> 9:10   |Your first Mermaid experience
+9:25           |Mermaid terminology
+10:00 -> 9:45  |Publishing your graphs or Improving the layout of your graphs
+9:50           |Break
+10:00          |Publishing your graphs or Improving the layout of your graphs
 10:30 -> 10:15 |End
 
 Due to the higher pace, me and Meike decided to have a break 15 minutes earlier,
